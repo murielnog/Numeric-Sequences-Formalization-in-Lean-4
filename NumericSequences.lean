@@ -1,0 +1,6 @@
+import NumericSequences.Basic
+import NumericSequences.Teorema_Unicidade_Limite
+import NumericSequences.Teorema_Convergente_Limitada
+import NumericSequences.Teorema_limitezero_vezes_limitada
+import NumericSequences.Teorema_monotona_limitada_convergente
+import NumericSequences.Teorema_Bolzano_Weierstrass
